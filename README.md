@@ -5,7 +5,7 @@ I used PostgreSQL to create and load data, and analyse data particularly using s
 The main finding from conducting this work was that generally, in modern times, the presidential candidate with the most money raised for their campaign, **tends to win**.
   - This is somewhat a misleading claim, given the lack of variables I looked at. This is just to say that there is a correlation (subject to t-tests etc.).
 
-Sources:
+**Sources:**
 
 Polling data - see csv. included in this repository (this data is from Five Thirty Eight)
 
