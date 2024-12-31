@@ -1,9 +1,11 @@
 # US political polls data analysis
 
-I used PostgreSQL to create and load data, and analyse data particularly using subqueries, for the 2016 US election.
+I used PostgreSQL to create and load data, and analyse data particularly using subqueries/CTEs, for the 2016 US election.
 
 The main finding from conducting this work was that generally, in modern times, the presidential candidate with the most money raised for their campaign, **tends to win**.
   - This is somewhat a misleading claim, given the lack of variables I looked at. This is just to say that there is a correlation (subject to t-tests etc.).
+
+I created a PowerBI dashboard, connected to the Postgre database.
 
 **Sources:**
 
